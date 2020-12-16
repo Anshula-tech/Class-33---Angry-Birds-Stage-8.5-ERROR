@@ -1,2 +1,2 @@
-# Class-33---Angry-Birds-Stage-8.5-ERROR
-due to the Matter.Body.setPosition(birds[birds.length-1], {x: mouseX , y: mouseY}); line, we were experiencing some error where the bird wasn' following the mousex and y, but when the mouse released it dropped...
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
